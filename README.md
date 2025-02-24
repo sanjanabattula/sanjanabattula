@@ -7,8 +7,8 @@ I’m a graduate student pursuing my **M.S. in Biostatistics** at **New York Uni
 ---
 
 ### **Skills & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 - **Programming Languages:** R, Python, STATA, SAS, Java  
